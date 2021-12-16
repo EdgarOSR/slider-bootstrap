@@ -1,0 +1,33 @@
+* 
+{
+    box-sizing: border-box !important;
+}
+
+body
+{
+    display: flex;
+    flex-direction: column;
+}
+
+header
+{
+    margin: 0px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar-brand
+{
+    display: flex;
+    flex-direction: row;
+}
+.carousel-item img
+{
+    height: 80vh;
+}
+
+.text-wrap
+{
+    text-align: justify !important;
+}
